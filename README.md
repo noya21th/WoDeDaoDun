@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/banner.jpg" width="360" />
+
 # 我的刀盾 WoDeDaoDun
 
 > *"最蠢的做法是拒绝交文档，次蠢的做法是交一份废纸，最聪明的做法是交一份真正好的文档——好到所有人都夸你，好到公司真的在用，好到出了事还是得找你。"*
